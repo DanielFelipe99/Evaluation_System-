@@ -1,4 +1,4 @@
-# Evaluation_System-
+# Evaluation_System
  Sistema de Evaluación de Profesores
 
 El Sistema de Evaluación de Profesores es una plataforma web diseñada para medir y analizar el desempeño docente en instituciones educativas. A través de pruebas estandarizadas y reportes analíticos, el sistema permite evaluar a los profesores en cinco competencias clave:
